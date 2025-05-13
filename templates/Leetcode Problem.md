@@ -1,0 +1,27 @@
+## 📝Problem Details 
+
+- Title: 217. Contains Duplicate
+- Link: 
+- Difficulty: #Easy
+- Tags/Categories: #Arrays #Hashmap
+
+## 💭My initial thoughts?
+```
+
+```
+
+## 💡Explanation of solution
+```
+
+```
+
+## ⌛Complexity Analysis 
+```
+Time Complexity: O()
+Space Complexity: O()
+```
+
+## 💻 Implementation of solution 
+```
+
+```
